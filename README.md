@@ -1,5 +1,13 @@
 # JSON Path Helper
 
+## スクリーンショット
+
+![JSON Path Helper](ScreenShot.jpg)
+
+## ダウンロード・リリース
+
+最新版は [Releases (Latest)](https://github.com/MustangTIS/Windows-json-path-helper/releases/latest) からダウンロードできます。
+
 Windows のファイル／フォルダパスを、JSON 文字列として扱いやすい形式へ素早く変換・コピーするための GUI ツールです。  
 エクスプローラーの「パスのコピー」で付くダブルクォーテーション（`"`）や前後の空白・改行を自動で整え、対象パスと親フォルダパスの両方を二重バックスラッシュ（`\\`）およびスラッシュ（`/`）形式で出力します。
 
